@@ -1050,7 +1050,14 @@
   ],
   "users": [
     {
-      "id": 12
+      "id": 12,
+      "LastName": "Hậu",
+      "FirstName": "Phan",
+      "Email": "phanduyhau2382229@gmail.com",
+      "Password": "123123",
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/171"
+      ]
     },
     {
       "address": "Algeria",
@@ -1061,12 +1068,14 @@
       "id": 14
     },
     {
-      "address": "Austria",
+      "id": 15,
       "LastName": "Hậu Nè",
       "FirstName": "Phan",
       "Email": "phanduyhau2389@gmail.com",
       "Password": "123123",
-      "id": 15
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/178"
+      ]
     },
     {
       "address": "American Samoa",
@@ -1172,34 +1181,116 @@
       "Email": "phanduyhau231189@gmail.com",
       "Password": "123123",
       "id": 27
+    },
+    {
+      "address": "Armenia",
+      "LastName": "hau",
+      "FirstName": "duy",
+      "Email": "duyhau@gmail.com",
+      "Password": "123123",
+      "id": 28
+    },
+    {
+      "id": 29,
+      "LastName": "nguyen",
+      "FirstName": "nguyen",
+      "Email": "nguyennguyen@gmail.com",
+      "Password": "123123",
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/177"
+      ]
+    },
+    {
+      "id": 30,
+      "LastName": "hau",
+      "FirstName": "hau",
+      "Email": "hau@gmail.com",
+      "Password": "123123",
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/185"
+      ]
+    },
+    {
+      "id": 31,
+      "LastName": "Hậu",
+      "FirstName": "Phan",
+      "Email": "phanhau2389@gmail.com",
+      "Password": "youngman3",
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/194"
+      ]
+    },
+    {
+      "id": 32,
+      "LastName": "duy",
+      "FirstName": "hau",
+      "Email": "duyhau1@gmail.com",
+      "Password": "123",
+      "avatar": [
+        "//images.weserv.nl?url=http://103.237.147.34:8888/api/v1/users/2/files/203"
+      ]
     }
   ],
   "cart": [
     {
-      "id": 10,
-      "title": "Fortnite",
-      "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
-      "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+      "id": 13,
+      "title": "Grand Theft Auto V",
+      "avatar": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&resize=1&w=360",
       "images": [
-        "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
-        "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
-        "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
-        "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
-        "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+        "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg"
       ],
-      "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
-      "publisher": "Epic Games",
-      "iconPublisher": "data:image/png;base64,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",
+      "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_400x400_GameLogo-1000x1000-f6c47a98454049a5e63959f7b6f898c4fc22829c.png?h=270&resize=1&w=480",
+      "publisher": "Rockstar Games",
+      "iconPublisher": "https://yt3.ggpht.com/683dG_AFPu5nJfKDXS1Nu-EvHsDahggqWG0QCduBcs9ermhV8PxNnHevvZegmWW9yBHXrhXJ4Q=s900-c-k-c0x00ffffff-no-rj",
       "date": "22 Oct, 2022",
-      "price": "Free",
+      "price": 20,
       "tag": "Seller",
       "videos": [
         "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
         "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
       ],
-      "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+      "description": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+      "type": ["Action", "Adventure"],
+      "about": "The Grand Theft Auto V: Premium Edition includes the complete Grand Theft Auto V story experience, free access to the ever evolving Grand Theft Auto Online and all existing gameplay upgrades and content including The Doomsday Heist, Gunrunning, Smuggler’s Run, Bikers and much more. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in Grand Theft Auto Online.",
+      "language": ["English", "Vietnam", "India", "German", "French"],
+      "system": [
+        {
+          "Os": "Window 10",
+          "Processor": "2.3 GHz Intel Quad Core Processor",
+          "Memory": "8 GB RAM",
+          "Graphics": "Nvidia & AMD (1GB VRAM)",
+          "DirectX®": "9.0c",
+          "Storage": "83 GB available space",
+          "Sound": "DirectX 9.0c compatible"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Assassin's Creed Valhalla FAQ",
+      "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+      "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+      "images": [
+        "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+        "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+        "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+        "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+        "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+      ],
+      "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+      "publisher": "Epic Games",
+      "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+      "date": "22 Oct, 2022",
+      "price": 50,
+      "tag": "Seller",
+      "videos": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+        "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+      ],
+      "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
       "type": [
-        "Controller Support",
+        "Achievements",
+        "Challenging Combat",
         "Co-op",
         "Multiplayer",
         "Competitive",
@@ -1315,6 +1406,1264 @@
       "price": 50,
       "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
       "date": "22 Oct, 2022"
+    }
+  ],
+  "orders": [
+    {
+      "id": 13,
+      "userId": 12,
+      "items": [
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 15:06:18 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit"
+    },
+    {
+      "id": 17,
+      "userId": 16,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANAAAADyCAMAAAALHrt7AAAAkFBMVEUvLS7///8qKCkkISMlIyQUEBIOCQt9fH35+fnX1teHhoYRDQ9QT1Dq6upOTU38/Pxsa2sAAAAaFxnf39+8vLwgHR+dnZ0HAAR3dnYYFRc7OToeGx0/Pj+qqamYmJjc3Nw0MjPR0dHFxMWOjY3w8PBcW1tIRke0s7NmZWbKysqcm5tZWFiDgoKmpaWvr6+5uLmc2SfuAAAM3ElEQVR4nO2da4OqKhSGFZGpnGbSMjO72L2maeb//7vjXUA03NB0Obz7y2wl5FGE5WIBml6os5pvBu+zUHsihbP3QW++6pQUWv7H7w75LgTg3kVsKwAM1/fOBwroF/pPh4ILOO4PDnS07l0icZnnzwJob9y7NDIEp58Z0PEleCKicwr0+wL1LZU5T4CeujUg5XxGQL/+vYshT85PBLR7oScEPnStg+5dCpnyttrKvHchZMo/aT/BvQshU+5F28B7F0Km4Lc2eKE2IWoVjtr5pYC0WfTvxRTeuwBKSkpKSkpKSkpKjyxoBI6fywlcKO8TB6JmZcmsmtOmH1QLQ+bpUGeBi+BgMR+tc40O47c98uV8WMPJtlnpZcz+tl9VdGx5+unNPJfM843I4UQQAT+8DPWqOuuBLQMJvjEyx5V6xdFnU5r+RcMLbfSIs13c62Roo/psBhIcbrxAnSvJ5mZZ8RqAzEljLmtxJ7wsIL0/KypMPZC5uZLLUNiHKA1I1/f5M6oFcq9dLEpsPw5QJ39EdUBgej0TfSHoFpUIpJ9QMxBacWSia2Jdkkwg/QibgMA7Tx76XOwRSQXqoiYgp77BxiU4WCIVSJ+BBiCLLw/9KFTn5AIt3HogcObj0S9ufXH/Gmjl1wMZ1T6oE9tPNZn8LdApMSpPy0oJvXog55dKfAnt2Ha1d1Q2W6GXiAJa2pQ1ndkiFNDMSux+5NLveUOV809k0oGVvSvQpoiE+lYKaFhjTFFAH/l7a1OlfAe1QBZpY2MmAd2ey3yH2gKBD7Isx3ogRL4tC6zY9pY4Fd4RSPPIExPICzTBPn4sss5NRdptUSBWMbmABhiQ2X0cIOrNUEAKSAEpIAWkgBSQAlJACkgBKSAF1AqIzOT5geD316LUOBTgeQwgDbq4RHgeBEiiKo5GkxR8cqBOd0lomHmbnhaoog3Tt62AngfII724zw8EyeSDZwdyqFGsHbez/rGA9hDEgoge2J4+KdDg/Rxp91YZ104GfZ4QqE6pofFCQIfgxYDSUr4OUKcpkuQZgcbuwwENwYxUqPEDdbI4zYcCQoCU1gIoL+M/ALGuKQeI7wOPqXEeF9ceKGTVinsDXbw8cWsg90Kc2oiszyELqDMow1/bA42JU737A3XGDla+ZwcaHgY24al5QqDvQa5zaFoB1QI/IdDehZlYbewTAn009hUKSAEpIAWkgBSQAlJACkgBKSAFJBMIn/sQkE6S5wTCXTs+OSzTE/FB/h0QNbx88sofUNNt3iQCLW2P0pU4BX4gf0Uc1XfFBH+PNa4pCUjvUMpeXglAlTl4Gx/FsSrIuFAnZEZjVTWRBeQuKnkPl93usjpNUuYcvBsCgd2VK1HpHx5IMxtXzSg1vu3EXHlA/poPaC80nvKHQJx1bnnjye3ygDSvMjOZpaPY0N5fAoE9B89JcOWYvwSqRAYx1BF7Pn8MpKH5lat9zkTXlPpbIA01P6NhKDw2/sdAWjBb1V7qc2GLr/kVAX02KQOyOsTBZiDYw/PUu8SCDwC9/25ZOMuNLxaxnV/dalZWdJN1kC/PyuplDtr35utVN9fq9Ps1gNYz700BYOD7ZXC477gvtci5kpKSkpKSkpKSkpKSktL/S9CxUPSlj0w6bDlTtsI85SAxWFPs89n3aVqXKSx1YCILIdMxZG7OFaDJaNjR9c9t92diMdbrDbO1QN+JqxqLcSr8JhiT7GCyfRgcs3SZZoldb3JYbjud7XK0mXqyXD8uJJ20c4P2kblf2ak14WZDxS/Kw+Uy1EnEQcB2K6bDQAAt8HGwYQ9J8f94vcr1Nh6VpPAOEjexdKmWXmmvcI4mQA4bKEkPNHpB/u1Awl6riDW2tiKSwHKx+S/84ZVAS7ua9CqQUx0y1kfCOyva3WquOjU0iC3+vcVHqTGn93f26LBVm68BmawVq4W3ivTYY59nvDKDGXYGjzvCgD7TJ2ceypRXgIhcc/VFV603sPGH7eo0zN7Rb8Il7WCl1FfYIBs+LDGKaz+xNi0B9ElGdERAxcyu/tfb5mdYgIopKIrUPdumb6HjKvr7hxwZtOibywLS41baxt9yAmhAht3ENW6V3Uc7gEaAwril3YhWuDLA45KNzgB7QO9WQI34/JRPjwCKaotLjGgRQNWYJCtrEtbp3QOOsV6KVrgyEupQZmXQ20962ZWzO6rXAOkLR8P/ywuk763snCPcwhULrxNtF6hJ5GUvWBnsRg3tUR0AARTZH6USgHJNrPUEohqLq6WK6Mh0uWjAWNMnunC2qvbaziKq+kWvSwFRkQgE0HqOKQnyC3DzZDgf+BK27Cn2Lkg77uOwuqaPBsIszc7IV7goQtpyIHIh8fx/9c32KbaUKs32SXzLnryhSWO6ILH5TB77mYeERu98/jKti902MqAJ0Tk7eA5MoNQidOhQOb1/FNwOxswqSbryPRsoL3RUK4utAUJAnuuF+A8RnkMDkObRUYG6PhYLJcnfy079Eyp6Xtx0vgQUkFfG93VtlxdIQ5PKkPhGaDC8WOtfqwXKY45GtuM49gi/ARiQYRd2ZgiuA53yrw1ofdOmpNB2MEVDk/QScBLbJ9tPHKiwZVajWCs8PQ5UpFsEGhNohH/eYZ0SNP3JAbcvhCIAi2eSdtHJ/mj53gcpkM/ew2WIKCDNT+/NMMqICTQxsQ/wgid5GtBB8C2/VeXT+ycVFWJSdNJ5y5cC5YWjlX5dYEAa2ubHmUCscGwQFt9z0Mu777rgcT6VD+Cc35j82ycpDiOYN9XIp4FgHLI49rUWQJEpe0B5DfNOMoCwqLwF8o3I6vX2faw4NuObMpVLA2nWb2ZDMIEGdiW8JmliOgvDdCEARm5WrsS6IrPsCjqjzfdmXpgvyV0f1PGkxhIBFJU93SaeCdQn1xYcAM3MHS+nxeB87uUXFtwjSvOZwVFZcaxVxjp5yzXJGLZeBQhM02p1vdmOayCs2RTvXfATD8xqAqq/YemROqB8wQGIfrJj8ac4CZSLD8hhrzpxEnb7wCnzGS18rJvCPCbFWxdfWQQIAFaYcEeC+xQ4VT/J8iP+isuj4Ze4lw7l5YgsdBGg6Nt4U6kcW6GpHGUZj6T90R14iRc3//T+JtaN/c6OHoJi18wGoBrPadKKu/6CbEV/TEn+bYD2l25auE53PMscssZ4lIrsQtzsaATk/iZ/rcmt0eAaO2qMWMp/4Xofi1MKtV33IB3+KILkmnaw30+RZ7pF6QwnFZU2Oxo3r0H6J2AmAPh/KBW/AK6PbAcadtQNysPJMxdcmUpJSUlJSenlFd67ALIV3rsAskUP9jy5Qu38WubZXpu8FBA4apuXmmwE3zSxyeKPJmOhjSR+Bd5fwUHrC05GfixZS02/dxmkKtC1eMDmZeRuIqCO0HjLYwltIyD94F1P+Ryy5noMpH+/SLtgxu79JPrmImHa+P1lJ4NvaThRFz59yxA4K70E0j8vLu3efCaBwF9k4wJlwNd8aj2pWQdM7VKMU+ARbKej/YST/A17hw/3kCF5/U1AB/s/toBjbsgRFxIo0u9eTvT6Xwii2Q89JlYBipq8CWrxSQEki//KrjdYVUvPANL17RjwDpWB3e78Lk+74/T6NZPr+u6COfbLBIq03nE2ENMven6CgDq/R64bCb13doxRPVA8FcTn6poMS1tIYerP372A44ogsN7qL1gPFPW2PzOurgm4aPpVGyMjlybqdMJL00YgTUCRVtS2GvVM3v7yz0z9y4fNRRN1OsdTc15XgKIGYuHydU3Atd/ndXE0jTR7Thrg+JurN+0qUKTRu8fXNYHA2x34NigraTyXr0GFaH+4niEXkK4v3xDfTYwXTjqOOJmGY26aeC4eex7TvwFFDepF4+6aHDS4vuDicDzjpgE+GPNWZl4gvZXtCn00aXp5h+MpN03UEJw5F6RsCRTbrpWgkHom0/lesWm+poibBgRmr1Uv1woo0qGF7QpNuKEr/nDRgkaD1nTeqpFpDxTbrnxdU6LYjCjD3pataDTXZlmf0oGirukL8n81JWbEMKEJ29AAP2BbnzcAijQ6c3ZNGdN+04omsj4/qhM5bgkUvQzfJmfXlDC1mZkOAvTGtYqrVKCoa5qHt3CrxC6Plg2BJCA96Zokj5dRLo+/BpLsVuGyPm8MpMtzq7BcHncBilrkiSdc8/6p02FIClC8XSS3W4Ul4Bv/1OkwJAlIb+FWqajB5dFe8oD43Srkw2l0ebSXTCB+t0qJY4Ztrc8rkguk87tVYl13ebSXdKDYrWLwdE3ACYQ7HYZuAKTzuFU4XR7tdRuga24VbpdHe90KqMGtAnzI7fJor9sB6Wy3SjuXR3vdFCiyXXsWUfNcJLXTYejGQHHNC630WxUYJvi6XV3LdHOgSN2v4ywMZ8fF6g8u9h9xZT64Gnaz/wAAAABJRU5ErkJggg==",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 15:38:47 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit"
+    },
+    {
+      "id": 19,
+      "userId": 18,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Assassin's Creed Valhalla FAQ",
+          "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+          "type": [
+            "Achievements",
+            "Challenging Combat",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 15:40:46 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit"
+    },
+    {
+      "id": 16,
+      "userId": 15,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Assassin's Creed Valhalla FAQ",
+          "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+          "type": [
+            "Achievements",
+            "Challenging Combat",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 16:13:03 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit"
+    },
+    {
+      "id": 29,
+      "userId": 28,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Assassin's Creed Valhalla FAQ",
+          "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+          "type": [
+            "Achievements",
+            "Challenging Combat",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 16:18:03 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit"
+    },
+    {
+      "id": 30,
+      "userId": 29,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Assassin's Creed Valhalla FAQ",
+          "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+          "type": [
+            "Achievements",
+            "Challenging Combat",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Thu Nov 17 2022 16:26:27 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit",
+      "price": 155
+    },
+    {
+      "id": 32,
+      "userId": 31,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "Assassin's Creed Valhalla FAQ",
+          "avatar": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b971eeed246678c6aa914b9ea52172ff?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-00-1920x1080-5083af207bb2.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-01-1920x1080-734e2e74bb66.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-02-1920x1080-b77b592f1dd8.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-03-1920x1080-1d6e08793af3.jpg",
+            "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-g1a-04-1920x1080-06d22299346a.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/uk-acv-meteor-complete-epic-game-logo-400x150-400x150-e00d755fd840.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "https://cdn2.unrealengine.com/egs-ac-sale-2022-carousel-desktop-1248x702-18fed48e921a.jpg?h=1080&resize=1&w=1920",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+          "type": [
+            "Achievements",
+            "Challenging Combat",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Fri Nov 18 2022 09:26:08 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit",
+      "price": 155
+    },
+    {
+      "id": 33,
+      "userId": 32,
+      "items": [
+        {
+          "id": 17,
+          "title": "Ghost Recon Breakpoint",
+          "avatar": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRT_STD_Edition_Store_Portrait_1200x1600_1200x1600-b08ee70d85ee2649b6e9c575d9192e66?h=854&resize=1&w=640",
+          "images": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_118cb022b9a43f70d2e5a2df7427f29088b6b191.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_d196d945c6170e9cadaf67a6dea675bd5fa7a046.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_8c9cce9a9dde7b9c020837dcbd4615efe6f77d66.600x338.jpg?t=1641233427",
+            "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b9e362287b509bb3864fa7bad654fe1fda0f7ed.600x338.jpg?t=1641233427"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/grt-std-edition-game-logo-color-400x150-400x150-67b1b4dce1f4.png?h=270&resize=1&w=480",
+          "publisher": "Valve",
+          "iconPublisher": "https://avatars.akamai.steamstatic.com/5f4b7a6439548f5513fc72968dae2217309e3d54_full.jpg",
+          "date": "22 Oct, 2022",
+          "price": 42,
+          "tag": "Most",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+          "type": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based"
+          ],
+          "about": "Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999, said Doug Lombardi at Valve. For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "PC Building Simulator 2",
+          "avatar": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-9d894c93110374afb5ff0f666a05c792?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/egs-spider-man-miles-morales-carousel-desktop-1248x702-0cbd7e91abd2.jpg?h=1080&resize=1&w=1920",
+          "images": [
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-01-1920x1080-22adc95c350b.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-02-1920x1080-193d5c28bb51.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-03-1920x1080-96a054b0d166.jpg?h=270&resize=1&w=480",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-04-1920x1080-ca59780c5001.jpg",
+            "https://cdn2.unrealengine.com/egs-pcbuildingsimulator2-spiralhouseltd-g1a-05-1920x1080-648bed771c68.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-ic1-400x400-32513a3f95a0.png?h=270&resize=1&w=480",
+          "publisher": "PlayStation PC LLC",
+          "iconPublisher": "https://www.joybuggy.com/img/m/1113.jpg",
+          "date": "22 Oct, 2022",
+          "price": 50,
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+          "type": ["Cloud Saves", "Achievements", "Single Player"],
+          "about": "Start your own PC business in Career Mode, and learn to build and repair PCs. Upgrade your workshop and unlock new tools and equipment as you level up. Turn a profit while going the extra mile for your customers, and watch the positive reviews roll in.Unleash your creativity in Free Build Mode. Select from 1200+ components to plan and execute a powerhouse PC. Install upgraded water cooling, overclock your CPU & GPU, and tweak RAM timings to turbocharge performance. Use 3DMark and Cinebench benchmarks to test and optimise your design.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Fortnite",
+          "avatar": "https://cdn1.epicgames.com/offer/fn/22BR_C3S4_EGS_StoreArt_Blade_1200x1600_1200x1600-0f4096bc5da796d51594e14f3e340eac?h=480&resize=1&w=360",
+          "intro": "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+          "images": [
+            "https://cdn2.unrealengine.com/22br-c3s4-egs-storeart-blade-2560x1440-2560x1440-2105cf5a3d0e.jpg",
+            "https://cdn2.unrealengine.com/en-20br-nobuild-social-social-1920x1080-130eb6904c6e.jpg",
+            "https://cdn2.unrealengine.com/01-gameplaystill001-3840x2160-3840x2160-52f85c1abc06.jpg",
+            "https://cdn2.unrealengine.com/02-gameplaystill002-3840x2160-3840x2160-4a77e0d6cd69.jpg",
+            "https://cdn2.unrealengine.com/03-gameplaystill011-3840x2160-3840x2160-3f886b00c0bd.jpg"
+          ],
+          "iconGame": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ffn%2FFortnite-Logo_w-Shadow-1778x811-ed23fe8dea13f030db120b226f9d2a101560bde2.png?h=270&resize=1&w=480",
+          "publisher": "Epic Games",
+          "iconPublisher": "data:image/png;base64,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",
+          "date": "22 Oct, 2022",
+          "price": "Free",
+          "tag": "Seller",
+          "videos": [
+            "https://cdn.akamai.steamstatic.com/steam/apps/256843670/movie480_vp9.webm?t=1626872993",
+            "https://cdn.akamai.steamstatic.com/steam/apps/256840152/movie480_vp9.webm?t=1626873001"
+          ],
+          "description": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+          "type": [
+            "Controller Support",
+            "Co-op",
+            "Multiplayer",
+            "Competitive",
+            "Cross Platform",
+            "Single Player"
+          ],
+          "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "PAYDAY 2",
+          "intro": "https://cdn.cloudflare.steamstatic.com/steam/apps/256665794/movie480.webm?t=1466161429",
+          "images": [
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/hero_capsule.jpg?t=1666767102",
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/ss_67979091e0441e3df7aa885eaa107e2032973869.600x338.jpg?t=1666767102",
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/ss_b26f1852b68ab0af7fdd4932b1c9f78dc87a0325.600x338.jpg?t=1666767102",
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/ss_2799a1fde932e739138de91f0910ada013ddfca3.600x338.jpg?t=1666767102",
+            "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/ss_01fdd60d88bc24f48f688b6624dc42ce493bd76a.600x338.jpg?t=1666767102"
+          ],
+          "price": 50,
+          "limitAge": 16,
+          "publisher": "Starbreeze Home",
+          "iconPublisher": "https://avatars.cloudflare.steamstatic.com/ebcd85b774e3fb547009e0c2fb2d12369d18eee2_full.jpg",
+          "date": "13 Aug, 2013",
+          "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+          "type": ["Co-op", "Action", "FPS", "Heist"],
+          "about": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree. The CRIMENET network offers a huge range of dynamic contracts, and players are free to choose anything from small-time convenience store hits or kidnappings, to big league cyber-crime or emptying out major bank vaults for that epic PAYDAY. While in DC, why not participate in the local community, and run a few political errands? Up to four friends co-operate on the hits, and as the crew progresses the jobs become bigger, better and more rewarding. Along with earning more money and becoming a legendary criminal comes a character customization and crafting system that lets crews build and customize their own guns and gear.",
+          "language": ["English", "Vietnam", "India", "German", "French"],
+          "system": [
+            {
+              "Os": "Window 10",
+              "Processor": "2.3 GHz Intel Quad Core Processor",
+              "Memory": "8 GB RAM",
+              "Graphics": "Nvidia & AMD (1GB VRAM)",
+              "DirectX®": "9.0c",
+              "Storage": "83 GB available space",
+              "Sound": "DirectX 9.0c compatible"
+            }
+          ]
+        }
+      ],
+      "createAt": "Fri Nov 18 2022 09:40:35 GMT+0700 (Indochina Time)",
+      "payMethod": "Card Credit",
+      "price": 155
     }
   ]
 }
