@@ -433,13 +433,7 @@
         "https://www.youtube.com/watch?v=K5izDbolFDE&ab_channel=AnimeMirchi"
       ],
       "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
-      "type": [
-        "Achievements",
-        "Co-op",
-        "Multiplayer",
-        "Competitive",
-        "Single Player"
-      ],
+      "type": ["Achievements", "Co-op", "Multiplayer", "Competitive"],
       "about": "Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.",
       "language": ["English", "Vietnam", "India", "German", "French"],
       "system": [
